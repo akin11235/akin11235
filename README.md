@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile!
 <pre>
-  🐍 <strong> Python / Django Web Developer </strong>
+  🐍 <strong> Software Developer </strong>
 </pre>
 <!--
 **akin11235/akin11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
